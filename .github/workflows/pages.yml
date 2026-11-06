@@ -1,8 +1,7 @@
 # Builds this repo's Markdown into static pages and deploys them to GitHub Pages,
 # with the shared CSI Microscopy workflow (csi-Microscopy.github.io/tools/build-docs),
 # pinned to its release tag v1.
-# Needs Settings → Pages → Source: "GitHub Actions"; until then the deploy job
-# fails and the site keeps being served from the branch as before.
+# Needs Settings → Pages → Source: GitHub Actions (the repo no longer contains a branch-served site).
 name: Pages
 
 on:
