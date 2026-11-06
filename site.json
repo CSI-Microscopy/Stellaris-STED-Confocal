@@ -3,6 +3,6 @@
   "short": "Stellaris STED",
   "menu": [
     { "label": "Guide", "href": "./" },
-    { "label": "LIF tools", "href": "https://github.com/CSI-Microscopy/Stellaris-STED-Confocal/tree/main/tools" }
+    { "label": "LIF tools", "href": "tools/" }
   ]
 }
