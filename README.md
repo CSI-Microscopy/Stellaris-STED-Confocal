@@ -2,6 +2,8 @@ Last Updated: 2024/05/27
 
 # Stellaris-STED Confocal Microscope Instructions Manual
 
+Python scripts for reading and converting Leica `.lif` files (`lif-reader.py` and the work-in-progress `WIP_leica_lif_processor.py`) are in the [`tools/` folder on GitHub](https://github.com/CSI-Microscopy/Stellaris-STED-Confocal/tree/main/tools).
+
 ## Starting the System
 
 1. **Power On the Controller**:
@@ -37,18 +39,18 @@ Last Updated: 2024/05/27
     
        
        
-     <img width="263" alt="2024-05-26_16h50_42" src="https://github.com/Faculty-of-Agriculture-CSI-Microscopy/Stellaris-STED/assets/55537771/d1d47181-d0df-4512-9049-cfe1a1122f31">
+     <img width="263" alt="2024-05-26_16h50_42" src="assets/widget-scan-mode.png">
      
-     <img width="257" alt="2024-05-26_16h50_54" src="https://github.com/Faculty-of-Agriculture-CSI-Microscopy/Stellaris-STED/assets/55537771/226a263a-cc92-4cce-9bb5-20b0802251f9">
+     <img width="257" alt="2024-05-26_16h50_54" src="assets/widget-z-stack.png">
 
 
      - **Right Side Widgets**: Objective selection (Left), laser, and detectors settings(Right).
     
        
        
-     <img width="657" alt="2024-05-26_16h50_32" src="https://github.com/Faculty-of-Agriculture-CSI-Microscopy/Stellaris-STED/assets/55537771/67183601-5ff8-4e77-aa80-1ac15ce383d0">
+     <img width="657" alt="2024-05-26_16h50_32" src="assets/widget-objective.png">
      
-     <img width="655" alt="2024-05-26_16h50_24" src="https://github.com/Faculty-of-Agriculture-CSI-Microscopy/Stellaris-STED/assets/55537771/10605811-6bec-49f4-bdaf-3e506f60f76b">
+     <img width="655" alt="2024-05-26_16h50_24" src="assets/widget-lasers-detectors.png">
 
 
 ## Setting Up for Imaging
